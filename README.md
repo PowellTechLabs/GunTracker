@@ -11,4 +11,5 @@ The manufacturers include the top 20 gun manufacturers and allow you to add any 
 The database stays local to  your computer and has no internet connectivity whatsoever.
 
 Version 1.0 - 08-17-2025
-Powell Tech Labs
+
+Powell Tech Labs - email us at ---------------> powell.tech.labs@gmail.com

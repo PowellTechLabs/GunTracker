@@ -11,5 +11,10 @@ The manufacturers include the top 20 gun manufacturers and allow you to add any 
 The database stays local to  your computer and has no internet connectivity whatsoever.
 
 Version 1.0 - 08-17-2025
+Version 1.1 - 08-18-2025
+
+Changelog v1.1
+- updated the Print to .PDF File to allow users to select which inventory items to include in the report, instead of printing ALL items by default.
+- updated the Save to .CSV File to allow users to select which inventory items to export into the file, instead of exporting ALL items by default.
 
 Powell Tech Labs - email us at ---------------> powell.tech.labs@gmail.com

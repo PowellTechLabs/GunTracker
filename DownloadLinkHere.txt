@@ -1,3 +1,5 @@
+This will allow you to download GunTracker1.1.exe to your Downloads folder location.
+
 Copy this Dropbox link to your browser.  The =1 at the end will automatically initiate a download to Download Folder used by your browser. 
 The file is larger than 25mb; therefore, GitHub doesn't allow it to be upload directly into the repository.
 

@@ -1,8 +1,0 @@
-This will allow you to download GunTracker1.1.exe to your Downloads folder location.
-
-Copy this Dropbox link to your browser.  The =1 at the end will automatically initiate a download to Download Folder used by your browser. 
-The file is larger than 25mb; therefore, GitHub doesn't allow it to be upload directly into the repository.
-
-https://www.dropbox.com/scl/fi/j709xd71vmhoems1al9vy/GunTracker1.1.exe?rlkey=ohduh3i70ebi5g1r7ivra54ik&dl=1
-
-email: Powell.Tech.LABS@gmail.com with any questions.
